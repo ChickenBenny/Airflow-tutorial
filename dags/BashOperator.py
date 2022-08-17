@@ -31,7 +31,7 @@ with DAG(
     )
     task4 = BashOperator(
         task_id = 'task4',
-        bash_command = "echo task 2 after task 1"
+        bash_command = "echo task 4 after task 2 and task 3"
     )
 
 
