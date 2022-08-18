@@ -24,7 +24,6 @@ $ docker ps
 > By default
 帳號 : airflow
 密碼 : airflow
-5. 專案架構
 
 
 **yaml的額外設定**
