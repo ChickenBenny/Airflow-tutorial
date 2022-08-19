@@ -1,5 +1,4 @@
 # Airflow(Chinese version)
-In this project we run the airflow by docker and this is the Chinese version of README. You can either read the English version. 
 ### Quick start
 1. 創建資料夾，並複製此專案。
 ```
